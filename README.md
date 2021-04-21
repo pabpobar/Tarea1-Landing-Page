@@ -16,17 +16,19 @@ Para atraer la atención e interés de los futuros usuarios y entregar informaci
    4. Crear tablero (por ejemplo kanban básico) idealmente autogestionado
    5. Registrar y controlar issues
 
-Tanto la interacción como el control del progreso de la tarea se realizarán a través de este repo (__Tarea1-Landing-Page__), por lo cual deberán registrar mediante la creación de **issues** lo siguiente:<br>
+Tanto la interacción como el control del progreso de la tarea se realizarán a través de este repo (__Tarea1-Landing-Page__), por lo cual deberán registrar mediante la creación de **issues** y dar seguimiento si corresponde a lo siguiente:<br>
 >__Al inicio del proyecto__<br>
 >* Identificación del proyecto<br>
 >* Subida de documentación básica inicial<br>
 
 >**Durante el desarrollo del proyecto y cada vez que sea necesario**<br>
->* Eventos relevantes durante el desarrollo<br> 
+>* Eventos relevantes <br>
+>* Interacción entre los miembros del equipo<br>
+>* Observaciones, solicitudes, errores, comentarios, etc.<br> 
 
 #### Documentación básica inicial:
 Para subir la documentación básica deben crear una rama asociada a su proyecto en repo local de **Tarea1-Landing-Page**. Para crear este documento pueden utilizar tanto el readme como wiki de su proyecto.<br> 
->La documentación debe incluir lo siguiente:<br>
+>Como mínimo, la documentación debe incluir lo siguiente:<br>
 >* Breve presentación del proyecto, producto o servicio<br>
 >* Planificación general del proyecto<br>
 >* Cronograma inicial previsto<br>
