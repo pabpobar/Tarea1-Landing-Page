@@ -10,7 +10,7 @@ Para atraer la atención e interés de los futuros usuarios y entregar informaci
 3. Aplicar estilos CSS para manejar la apariencia e interacción con la página
 4. Se recomienda utilizar herramientas de boostrap en el diseño
 5. Crear repo en **GitHub** para el proyecto considerando los siguientes requerimientos:
-   1. Contener instrucciones y todo lo necesario para configurar localmente el ambiente de desarrollo (considerar buenas prácticas para confeccionar readme)
+   1. Contener instrucciones y todo lo necesario para configurar localmente el ambiente de desarrollo (aplicar buenas prácticas y considerar [este template](https://github.com/othneildrew/Best-README-Template))
    2. Configurar un proyecto
    3. Definir hitos y asignar responsables
    4. Crear tablero (por ejemplo kanban básico) idealmente autogestionado
