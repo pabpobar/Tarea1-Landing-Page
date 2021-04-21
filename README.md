@@ -1,8 +1,8 @@
 # Tarea 1 'Landing Page'
 
 Para atraer la atención e interés de los futuros usuarios y entregar información relevante del producto/servicio que desarrollarán, deberán construir una “*landing page*” en la cual presentarán:
->Características e información relevante del producto en desarrollo <br>
->Información para capturar el interés de quienes lleguen al sitio en esta etapa inicial
+>* Características e información relevante del producto en desarrollo <br>
+>* Información para capturar el interés de quienes lleguen al sitio en esta etapa inicial
 
 ### Requisitos mínimos que debe cumplir:
 1. Se trata de información estática
