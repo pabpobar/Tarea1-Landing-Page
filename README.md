@@ -16,7 +16,7 @@ Para atraer la atención e interés de los futuros usuarios y entregar informaci
    4. Crear tablero (por ejemplo kanban básico) idealmente autogestionado
    5. Registrar y controlar issues
 
-Tanto la interacción como el control del progreso de la tarea se realizarán a través de este repo (__Tarea1-Landing-Page__), por lo cual deberán registrar mediante la creación de **issues** y dar seguimiento si corresponde a lo siguiente:<br>
+Tanto la interacción como el control del progreso de la tarea se realizarán a través de este repo (__Tarea1-Landing-Page__), por lo cual deberán registrar mediante la creación de **issues** y dar seguimiento, si corresponde, a lo siguiente:<br>
 >__Al inicio del proyecto__<br>
 >* Identificación del proyecto<br>
 >* Subida de documentación básica inicial<br>
