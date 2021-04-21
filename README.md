@@ -1,6 +1,6 @@
 # Tarea 1 'Landing Page'
 
-Para atraer la atención e interés de los futuros usuarios y entregar información relevante del producto/servicio que desarrollarán, se debe construir una “landing page” en la cual se presentarán:
+Para atraer la atención e interés de los futuros usuarios y entregar información relevante del producto/servicio que desarrollarán, deberán construir una “landing page” en la cual presentarán:
 >Características e información relevante del producto en desarrollo <br>
 >Información para capturar el interés de quienes lleguen al sitio en esta etapa inicial
 
@@ -13,8 +13,8 @@ Para atraer la atención e interés de los futuros usuarios y entregar informaci
    1. Contener instrucciones y todo lo necesario para configurar localmente el ambiente de desarrollo
    2. Configurar un proyecto
    3. Definir hitos y asignar responsables
-   4. Crear tablero, por ejemplo kanban básico
-   5. Controlar issues
+   4. Crear tablero (por ejemplo kanban básico)
+   5. Registrar y controlar issues
 
 Tanto la interacción como el control del progreso de la tarea se realizarán a través de este repo (**Tarea1-Landing-Page**), por lo cual deberán registrar mediante la creación de issues lo siguiente:<br>
 * Identificación del proyecto<br>
@@ -22,7 +22,7 @@ Tanto la interacción como el control del progreso de la tarea se realizarán a 
 * Subida de documentación básica inicial 
 
 #### En rama asociada a su proyecto deberán:
-* Subir información básica de su proyecto<br>
+* Subir información básica del proyecto<br>
 * Planificación<br>
 * Identificar integrantes y sus roles/responsabilidades<br>
 * Cronograma general (aprovechar readme y/o wiki de su proyecto)
