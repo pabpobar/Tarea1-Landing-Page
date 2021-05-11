@@ -1,35 +1,96 @@
-# Tarea 1 'Landing Page'
+SOBRE EL PROYECTO:
 
-Para atraer la atención e interés de los futuros usuarios y entregar información relevante del producto/servicio que desarrollarán, deberán construir una “*landing page*” en la cual presentarán:
->* Características e información relevante del producto en desarrollo <br>
->* Información para capturar el interés de quienes lleguen al sitio en esta etapa inicial
+  Construido con:
+  
+  -JQuery
 
-### Requisitos mínimos que debe cumplir:
-1. Se trata de información estática
-2. Crear una página única que se navegue mediante scroll, puede contener enlaces que permitan ir directamente a las secciones de interés en la página
-3. Aplicar estilos CSS para manejar la apariencia e interacción (look and feel) del sitio
-4. Se recomienda utilizar herramientas de boostrap en el diseño
-5. Crear repo en **GitHub** para el proyecto considerando los siguientes requerimientos:
-   1. Contener instrucciones y todo lo necesario para configurar localmente el ambiente de desarrollo (aplicar buenas prácticas y considerar [este template](https://github.com/othneildrew/Best-README-Template))
-   2. Configurar un proyecto
-   3. Definir hitos y asignar responsables
-   4. Crear tablero (por ejemplo kanban básico) idealmente autogestionado
-   5. Registrar y controlar issues
+  -Django
+  
+COMO EMPEZAR:
 
-Tanto la interacción como el control del progreso de la tarea se realizarán a través de este repo (__Tarea1-Landing-Page__), por lo cual deberán registrar mediante la creación de **issues** y dar seguimiento, si corresponde, a lo siguiente:<br>
->__Al inicio del proyecto__<br>
->* Identificación del proyecto<br>
->* Subida de documentación básica inicial<br>
+  Pre-requisitos: 
 
->**Durante el desarrollo del proyecto y cada vez que sea necesario**<br>
->* Eventos relevantes <br>
->* Interacción entre los miembros del equipo<br>
->* Observaciones, solicitudes, errores, comentarios, etc.<br> 
+	- Navegador web para visualizar página
 
-#### Documentación básica inicial:
-Para subir la documentación básica deben crear una rama asociada a su proyecto en repo local de **Tarea1-Landing-Page**. Para crear este documento pueden utilizar tanto el readme como wiki de su proyecto.<br> 
->Como mínimo, la documentación debe incluir lo siguiente:<br>
->* Breve presentación del proyecto, producto o servicio<br>
->* Planificación general del proyecto<br>
->* Cronograma inicial previsto<br>
->* Presentar al equipo, roles y responsabilidades de cada integrante<br>
+	lo demás está incluido en las carpetas llamadas assests, las cuales incluyen las tipografías e iconos necesarios
+
+  Instalación : 
+
+	1. git clone https://github.com/Elsapallo/Landing-page.git
+
+USO
+
+1. Ingresar al acceso directo clonado y luego al archivo html nombrada "index"
+
+2. Una vez en la página hacer click en plataforma o simplemente bajar mediante scroll
+
+3.1. Si deséa tener más informacíon sobre la corporación Colunga haga click en el botón "Aprender más"
+
+3.2. Si desea ingresar sesión* haga click sobre el botón "Acceder"
+
+3.2.1. para ingresar, ingrese su correo electrónico y contraseña** y haga click en "Iniciar sesión" y lo llevará a la sección II
+
+4. Si lo deséa, puede ingresar a las redes sociales de la corporación presionando su respectivo ícono en la sección de abajo
+
+
+*: Iniciar sesión por el momento no es funcional, es recomendable solo presionsar "Iniciar sesión" 
+
+**: puede hacer click directamente en "Iniciar sesión"* sin ingresar cuenta
+
+II
+
+
+1. Al principio de la página aparecerá lo que es su perfil de usuario*, puede hacer click en su organización para ir a la página de su institución
+
+2. Puede hacer click en cualquier evento o ícono al inferior del perfil y lo llevará a la sección correspondiente, o puede bajar mediante scroll y buscarla usted mismo
+
+	Anuncios: aquí (PROXIMAMENTE) apareceran las últimas informaciones que comunica la corporación a sus miembros
+
+	Calendario: aquí (PROXIMAMENTE) usted podrá registrar los próximos eventos o reuniónes 
+
+	Reuniones** : en está sección usted puede ingresar a sus reuniónes mediante el botón "Ir a salas" que lo llevará a Microsoft Teams
+
+	Foro** : aquí (PROXIMAMENTE) podrá comunicarse y compartir con las otras organizaciones mediante un foro
+
+	Organizaciones** : aquí (PROXIMAMETE) podrá buscar alguna organización de su interés 
+
+*Por el momento es un usuario ficticio de prueba, ya que no está registrado
+
+** : si presiona un botón en las secciónes marcadas, lo llevará al sitio en mantención, para volver al inicio puede retroceder en el navegador o seleccionar "inico" en la barra de navegación
+
+
+VÍAS A MEJORAR (ver issues)
+
+/////////////////
+
+
+CONTRIBUCIÓNES
+
+///////////
+
+
+LICENCIA
+
+ GNU public license v3
+
+
+CONTACTO
+
+f.cidgon@gmail.com
+
+https://github.com/Elsapallo
+
+
+RECONOCIMIENTO
+
+- Font awesome
+
+- Boostrap
+
+- Html5up.net
+
+- Scrollex (github.com/ajlkn/jquery.scrollex)
+
+- Responsive Tools (github.com/ajlkn/responsive-tools)
+
+- SCSS
