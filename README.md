@@ -1,5 +1,7 @@
 SOBRE EL PROYECTO:
 
+Nuestro propósito es crear una plataforma para la fundación Colunga y todas las demás organizaciones que participan en ella con el fin de crear un espacio donde se pueda desarrollar la comunidad virtual entre colaboradores y que estos puedan llevar a sus reuniones y mantenerse informados acerca de las actividades que se organicen de una manera óptima. 
+
   Construido con:
   
   -JQuery
