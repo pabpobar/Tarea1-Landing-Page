@@ -37,7 +37,7 @@ USO
 
 *: Iniciar sesión por el momento no es funcional, es recomendable solo presionsar "Iniciar sesión" 
 
-**: puede hacer click directamente en "Iniciar sesión"* sin ingresar cuenta
+***: puede hacer click directamente en "Iniciar sesión"* sin ingresar cuenta
 
 II
 
@@ -59,6 +59,22 @@ II
 *Por el momento es un usuario ficticio de prueba, ya que no está registrado
 
 ** : si presiona un botón en las secciónes marcadas, lo llevará al sitio en mantención, para volver al inicio puede retroceder en el navegador o seleccionar "inico" en la barra de navegación
+
+![Captura de pantalla (306)](https://user-images.githubusercontent.com/62680704/117989965-b739de80-b30a-11eb-98a4-194cf276c7ba.png)
+
+![Captura de pantalla (307)](https://user-images.githubusercontent.com/62680704/117990044-c91b8180-b30a-11eb-91f1-4bcd81965ad1.png)
+
+![Captura de pantalla (309)](https://user-images.githubusercontent.com/62680704/117990071-cf116280-b30a-11eb-8bb2-1915e269948c.png)
+
+![Captura de pantalla (310)](https://user-images.githubusercontent.com/62680704/117990088-d20c5300-b30a-11eb-8a60-907f25bfc88e.png)
+
+![Captura de pantalla (313)](https://user-images.githubusercontent.com/62680704/117990139-df294200-b30a-11eb-8f4d-da2fa9e1722e.png)
+
+![Captura de pantalla (314)](https://user-images.githubusercontent.com/62680704/117990158-e2bcc900-b30a-11eb-9ce7-5fe13f1e2114.png)
+
+![Captura de pantalla (315)](https://user-images.githubusercontent.com/62680704/117990166-e4868c80-b30a-11eb-932f-35d46d8d6d12.png)
+
+![Captura de pantalla (317)](https://user-images.githubusercontent.com/62680704/117990205-ecdec780-b30a-11eb-990d-7675b01fb22e.png)
 
 
 VÍAS A MEJORAR (ver issues)
