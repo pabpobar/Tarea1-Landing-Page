@@ -46,39 +46,44 @@ Proyecto en cual se le permitirá a un usuario poder almacenar y administrar sus
 * [Bootstrap](https://getbootstrap.com)
 * [Laravel](https://laravel.com)
 
-<br />
+<br/>
+
+## Cronograma del Proyecto
+
+<p align="center">
+      <img src="images/cronograma.png" alt="cronograma" style="max-width:100%;width:auto;height:auto;">
+  </a>
+
+
+
 
 <!-- GETTING STARTED -->
 ## Empezando
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+A continuacion, se detallarán los prerrequisitos y los pasos de instalación para poder levantar el proyecto ```landing-page``` de una forma local, alias: localhost.
 
 <br/>
 
 ### Prerrequisitos
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+1. Descargar e instalar NodeJS
+2. Descargar e instalar Laravel
+3. Descargar e instalar PHP V8
 <br />
 
 ### Instalación
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-   <br>
+Clonar el repositorio desde ```https://github.com/TheCrist422/landing-page```
+
+Instalar los paquetes de dependencias con ```npm install```
+
+Abrir 2 consolas de comandos
+
+En la primera consola escribir ```php artisan serve```
+
+En la segunda consola escribir ```npm run watch```
+
+Ingresar a la direccion designada (por lo general es: ```http://127.0.0.1:8000/```)
+
+<br>
 
 ## Integrantes Scrum
 * Cristián Troncoso (Scrum Master)
