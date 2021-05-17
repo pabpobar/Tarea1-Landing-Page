@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Acerca del Proyecto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com) 
+[![producto-imagen][producto1]]
 
 Proyecto en cual se le permitirá a un usuario poder almacenar y administrar sus archivos digitales para poder mejorar su organización, además de poder digitalizar mediante el uso de fotos, documentos físicos. El usuario podrá, renombrar archivos al subirlos, borrar archivos y también descargar archivos que ya fueron subidos.
 
@@ -61,6 +61,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 <br />
+
 ### Instalación
 
 1. Get a free API Key at [https://example.com](https://example.com)
@@ -90,5 +91,4 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [producto-imagen]: images/producto1.png
