@@ -36,14 +36,13 @@
 ## Acerca del Proyecto
 
 <p align="center">
-      <img src="images/producto1.png" alt="Logo" width="1987" height="935">
+      <img src="images/producto1.png" alt="Landing Page" style="max-width:100%;width:auto;height:auto;">
   </a>
 
 Proyecto en cual se le permitirá a un usuario poder almacenar y administrar sus archivos digitales para poder mejorar su organización, además de poder digitalizar mediante el uso de fotos, documentos físicos. El usuario podrá, renombrar archivos al subirlos, borrar archivos y también descargar archivos que ya fueron subidos.
 
 ### Construido con:
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
 * [Laravel](https://laravel.com)
 
