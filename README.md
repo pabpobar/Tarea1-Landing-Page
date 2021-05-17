@@ -71,11 +71,11 @@ A continuacion, se detallarán los prerrequisitos y los pasos de instalación pa
 
 ### Instalación
 
-Clonar el repositorio desde ```https://github.com/TheCrist422/landing-page```
+Clonar el repositorio desde este repositorio: [Repositorio de Github](https://github.com/TheCrist422/landing-page)
 
 Instalar los paquetes de dependencias con ```npm install```
 
-Abrir 2 consolas de comandos
+### Abrir 2 consolas de comandos
 
 En la primera consola escribir ```php artisan serve```
 
