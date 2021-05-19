@@ -12,9 +12,8 @@ COMO EMPEZAR:
 
   Pre-requisitos: 
 
-	- Navegador web para visualizar página
+	- Django instalado general o como entorno virtual
 
-	lo demás está incluido en las carpetas llamadas assests, las cuales incluyen las tipografías e iconos necesarios
 
   Instalación : 
 
@@ -22,7 +21,10 @@ COMO EMPEZAR:
 
 USO
 
-1. Ingresar al acceso directo clonado y luego al archivo html nombrada "index"
+
+1. Escribir en el cmd  \Dlunga>python manage.py runserver
+
+1.1 vaya a su navegador y busque http://127.0.0.1:8000/
 
 2. Una vez en la página hacer click en plataforma o simplemente bajar mediante scroll
 
