@@ -12,7 +12,8 @@ COMO EMPEZAR:
 
   Pre-requisitos: 
 
-	- Django instalado general o como entorno virtual
+	- Django instalado (versión especificada en requirements.txt)
+	- Python 3.9
 
 
   Instalación : 
